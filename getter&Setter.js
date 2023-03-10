@@ -19,7 +19,7 @@ const person = {
 
 // console.log("before:::", person);
 
-// person.firstName = 5;
+person.firstName;
 
 // const a = person.getFirstName();
 
